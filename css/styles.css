@@ -1,3 +1,10 @@
 #story {
   display: none;
 }
+
+.letter {
+  margin: 5px;
+  padding: 10px;
+  background-color: #c1ccdd;
+  font-family: cursive;
+}
