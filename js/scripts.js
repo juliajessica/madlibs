@@ -5,6 +5,7 @@ $(document).ready(function() {
     forms.forEach(function(form) {
       var userInput = $("input#" + form).val();
       $("." + form).text(userInput);
+      alert(userInput);
     });
 
 
